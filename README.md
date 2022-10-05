@@ -22,9 +22,13 @@ yarn storybook
   * react-query
   * react-hook-form
   * react-select
+  * react-calendar
   * recoil
   * axios
+  * yup
   * @emtion
+  * jwt-decode
+  * query-string
 
 
 * 개발 의존성 라이브러리
