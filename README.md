@@ -33,7 +33,7 @@ yarn storybook
   * prettier
   ...
 
-## 폴더 구조
+## 폴더 구조 (src/)
 * .storybook
 * api
 * assets
@@ -44,3 +44,11 @@ yarn storybook
 * store
 * utils
 ...
+
+## 컴포넌트
+* Button
+* Input
+* Checkbox
+* Select
+* Search
+* Map
