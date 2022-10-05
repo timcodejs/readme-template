@@ -39,6 +39,7 @@ yarn storybook
 * assets
 * components
 * containers
+* layout
 * hooks
 * pages
 * store
