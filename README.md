@@ -16,14 +16,21 @@ yarn storybook
 ```
 
 ## 라이브러리
+#### 의존성 라이브러리
 * react
 * react-router-dom
 * react-query
 * react-hook-form
 * react-select
 * recoil
+* axios
 * @emtion
+
+
+#### 개발 의존성 라이브러리
 * @storybook
+* eslint
+* prettier
 ...
 
 ## 폴더 구조
